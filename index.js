@@ -33,5 +33,6 @@ function removeLastKitten(){
 }
 
 function removeFirstKitten(){
-  var 
+  var newKittenArray = splice()
+  return newKittenArray
 }
