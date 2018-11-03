@@ -26,3 +26,7 @@ function prependKitted(name){
   var newKittenArray = [name, ...kittens]
   return newKittenArray
 }
+
+function removeLastKitten(){
+  
+}
